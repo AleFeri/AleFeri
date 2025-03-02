@@ -31,11 +31,3 @@ I'm a passionate Full-Stack Developer and Computer Science student who loves bui
 <a href="http://www.github.com/AleFeri"><img src="https://github-readme-stats.vercel.app/api?username=AleFeri&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="AleFeri's GitHub stats" /></a>
 
 <a href="http://www.github.com/AleFeri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AleFeri&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AleFeri/UNI_Game_Dev_TowerDefense" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFeri&repo=UNI_Game_Dev_TowerDefense&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/AleFeri/UNI_Penetration_testing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFeri&repo=UNI_Penetration_testing&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AleFeri/advent_of_code_2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFeri&repo=advent_of_code_2024&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/AleFeri/conway_game_of_life" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFeri&repo=conway_game_of_life&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div>
